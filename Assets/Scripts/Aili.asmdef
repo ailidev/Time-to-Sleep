@@ -1,0 +1,21 @@
+{
+    "name": "Aili",
+    "rootNamespace": "",
+    "references": [
+        "GUID:486904fa5646a594c98bfc93d67e841d",
+        "GUID:db41231ee25313f428956a0aca959ac3",
+        "GUID:42b8a0aa993a95a419ca9462130f89ae",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
